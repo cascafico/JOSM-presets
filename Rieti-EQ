@@ -1,0 +1,22 @@
+<presets xmlns="http://josm.openstreetmap.de/tagging-preset-1.0" author="Cascafico" version="1.0" shortdescription="Rieti EQ" description="debris &gt; brownfields, some building damage degrees and spontaneous camps (IDP) to be used for task #15, featuring imagery provided by Copernicus">
+<group name="Rieti EQ 2016" icon="copernicus.png">
+  <item name="building status" icon="redbuild.png" type="way">
+    <combo key="earthquake:damage" text="building status" values="collapsed,severe,moderate,negligible,no"/>
+  </item>
+  <item name="road block" icon="roadblock.png" type="node">
+    <key key="foot" value="yes"/>
+    <key key="barrier" value="block"/>
+  </item>
+  <item name="spontanous camp" icon="presets/tent.png" type="closedway">
+    <key key="idp:source_20160827" value="Copernicus"/>
+    <combo key="idp:status_20160827" text="status" values="new,increased,decreased"/>
+    <key key="damage:event" value="rieti_earthquake_2016"/>
+    <key key="idp:camp_site" value="spontaneous_camp"/>
+  </item>
+  <item name="brownfield (debris)" icon="debris.png" type="closedway">
+    <key key="brownfield:source_20160827" value="Copernicus"/>
+    <key key="damage:event" value="rieti_earthquake_2016"/>
+    <key key="landuse" value="brownfield"/>
+  </item>
+</group>
+  </presets>
