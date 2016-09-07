@@ -35,5 +35,27 @@
     <key key="foot" value="yes"/>
     <key key="barrier" value="block"/>
   </item>
+<group name="servizi essenziali">
+  <item name="ambulatorio" type="node,closedway">
+    <link href="http://http://wiki.openstreetmap.org/wiki/Tag:amenity%3Dclinic"/>
+    <key key="amenity" value="clinic"/>
+  </item>
+  <item name="servizi igenici" icon="presets/toilet.png" type="node,closedway">
+    <key key="amenity" value="toilets"/>
+	<combo text="accesso" key="access" values="public, private, multifamily"/>
+  </item>
+  <item name="acqua potabile" icon="presets/toilet.png" type="node,closedway">
+    <link href="http://wiki.openstreetmap.org/wiki/Tag:waterway%3Dwater_point"/>
+    <key key="amenity" value="water_point"/>
+  </item>
+  <item name="docce e lavandini pubblici" type="node,closedway">
+    <link href="http://wiki.openstreetmap.org/wiki/Tag:waterway%3Dwater_point"/>
+    <key key="amenity" value="water_point"/>
+  </item>
+  <item name="cucina pubblica" type="node,closedway">
+    
+    <key key="amenity" value="kitchen"/>
+  </item>
+</group>
 </group>
 </presets>
