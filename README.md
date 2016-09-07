@@ -1,6 +1,14 @@
 # JOSM-presets
-Java OpenStreetMap (JOSM) editor presets for specific tasks
+Preimpostazioni per Java OpenStreetMap editor (JOSM) per compiti specifici
 
-JOSM è un editor multipiattaforma per OpenstreetMap.
+JOSM è un editor multipiattaforma per il database geografico di OpenstreetMap. Oltre alle preimpostazioni di base con cui etichettare gli oggetti, è possibile aggiungerne liberamente in un file di tipo xml, leggibile da JOSM.
 
-Questa repository contiene alcuni preset costruiti sullo schema di etichettatura usato per mappare il terremto del Nepal.
+Questa repository contiene alcuni file di preimpostazioni costruite sullo schema di etichettatura usato per mappare il terremto del Nepal.
+
+--
+
+Java OpenStreetMap editor (JOSM) presets for specific tasks
+
+JOSM is a multi-platform editor for OpenstreetMap geodatabase. In addition to default presets for object tagging, you can freely add any combination thrugh an xml file, JOSM readable.
+
+In this repository you'll find some of them, based on Nepal earthquake tagging framework.
