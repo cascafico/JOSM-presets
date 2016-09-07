@@ -7,6 +7,11 @@ Questa repository contiene alcuni file di preimpostazioni costruite sullo schema
 
 Per utilizzarli, scaricare il contenuto in modalità archivio "zip" (oltre al xml conterrà anche le icone png) ed in menu JOSM "preimpostazioni" > "preferenze preimpostazioni"
 
+Riferimenti:
+
+[1] Crowdsourced Validation and Updating of Dynamic Features in OpenStreetMap
+http://passthrough.fw-notify.net/download/245336/http://idl.iscram.org/files/johannesanhorn/2016/1372_JohannesAnhorn_etal2016.pdf
+
 --
 
 Java OpenStreetMap editor (JOSM) presets for specific tasks
@@ -15,3 +20,7 @@ JOSM is a multi-platform editor for OpenstreetMap geodatabase. In addition to de
 
 In this repository you'll find some of them, based on Nepal earthquake tagging framework.
 
+References:
+
+[1] Crowdsourced Validation and Updating of Dynamic Features in OpenStreetMap
+http://passthrough.fw-notify.net/download/245336/http://idl.iscram.org/files/johannesanhorn/2016/1372_JohannesAnhorn_etal2016.pdf
