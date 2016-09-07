@@ -5,7 +5,7 @@ JOSM è un editor multipiattaforma per il database geografico di OpenstreetMap. 
 
 Questa repository contiene alcuni file di preimpostazioni costruite sullo schema di etichettatura usato per mappare il terremto del Nepal.
 
-Per utilizzarli, scaricare il contenuto in modalità archivio "zip" (conterrà anche le icone png) ed in menu JOSM "preimpostazioni" > "preferenze preimpostazioni"
+Per utilizzarli, scaricare il contenuto in modalità archivio "zip" (oltre al xml conterrà anche le icone png) ed in menu JOSM "preimpostazioni" > "preferenze preimpostazioni"
 
 --
 
