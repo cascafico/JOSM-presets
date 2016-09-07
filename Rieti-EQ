@@ -5,13 +5,13 @@
     <combo key="earthquake:damage" text="building status" values="collapsed,severe,moderate,negligible,no"/>
   </item>
   <item name="spontanous camp 27 aug" icon="presets/tent.png" type="closedway">
-    <link href="http://cascafico.altervista.org/osm/RietiEQ/EMSR177_legend.pdf"/>
+    <link href="http://cascafico.altervista.org/osm/RietiEQ/1372_JohannesAnhorn_etal2016_7.pdf"/>
     <key key="idp:source_20160827" value="Copernicus"/>
     <combo key="idp:status_20160827" text="status" values="new,increased,decreased,no change,closure,no tents"/>
     <key key="damage:event" value="rieti_earthquake_2016"/>
     <key key="idp:camp_site" value="spontaneous_camp"/>
   </item>
-    <link href="http://cascafico.altervista.org/osm/RietiEQ/EMSR177_legend.pdf"/>
+    <link href="http://cascafico.altervista.org/osm/RietiEQ/1372_JohannesAnhorn_etal2016_7.pdf"/>
     <item name="spontanous camp 05 sep" icon="presets/tent.png" type="closedway">
     <key key="idp:source_201600905" value="Copernicus"/>
     <combo key="idp:status_20160905" text="status" values="new,increased,decreased,no change,closure,no tents"/>
