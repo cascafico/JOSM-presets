@@ -38,7 +38,7 @@
 <group name="servizi essenziali">
   <item name="ambulatorio" type="node,closedway">
     <link href="http://http://wiki.openstreetmap.org/wiki/Tag:amenity%3Dclinic"/>
-    <key key="amenity" value="clinic"/>
+    <key key="amenity" value="doctors"/>
   </item>
   <item name="servizi igenici" icon="presets/toilet.png" type="node,closedway">
     <key key="amenity" value="toilets"/>
