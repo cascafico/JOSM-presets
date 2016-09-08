@@ -44,10 +44,15 @@
     <key key="amenity" value="toilets"/>
 	<combo text="accesso" key="access" values="public, private, multifamily"/>
   </item>
-  <item name="acqua potabile" icon="presets/toilet.png" type="node,closedway">
+  <item name="acqua potabile (punto distribuzione)" icon="presets/toilet.png" type="node,closedway">
     <link href="http://wiki.openstreetmap.org/wiki/Tag:waterway%3Dwater_point"/>
     <key key="amenity" value="water_point"/>
   </item>
+  <item name="acqua potabile (rubinetto)" icon="presets/toilet.png" type="node,closedway">
+    <link href="http://wiki.openstreetmap.org/wiki/Tag:waterway%3Dwater_point"/>
+    <key key="amenity" value="drinking_water"/>
+  </item>
+
   <item name="docce e lavandini pubblici" type="node,closedway">
     <link href="http://wiki.openstreetmap.org/wiki/Tag:waterway%3Dwater_point"/>
     <key key="amenity" value="water_point"/>
