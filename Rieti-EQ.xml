@@ -36,7 +36,7 @@
     <key key="barrier" value="block"/>
   </item>
 <group name="servizi essenziali">
-  <item name="ambulatorio (>10 medici)" icon="preset/clinic.png" type="node,closedway">
+  <item name="ambulatorio (>10 medici)" icon="presets/clinic.png" type="node,closedway">
     <link href="http://http://wiki.openstreetmap.org/wiki/Tag:amenity%3Dclinic"/>
     <key key="amenity" value="clinic"/>
   </item>
