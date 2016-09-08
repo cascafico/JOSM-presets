@@ -36,23 +36,26 @@
     <key key="barrier" value="block"/>
   </item>
 <group name="servizi essenziali">
-  <item name="ambulatorio" type="node,closedway">
+  <item name="ambulatorio (>10 medici)" type="node,closedway">
     <link href="http://http://wiki.openstreetmap.org/wiki/Tag:amenity%3Dclinic"/>
+    <key key="amenity" value="clinic"/>
+  </item>
+  <item name="ambulatorio (1-10 medici)" type="node,closedway">
+    <link href="http://http://wiki.openstreetmap.org/wiki/Tag:amenity%3Ddoctors"/>
     <key key="amenity" value="doctors"/>
   </item>
   <item name="servizi igenici" icon="presets/toilet.png" type="node,closedway">
     <key key="amenity" value="toilets"/>
 	<combo text="accesso" key="access" values="public, private, multifamily"/>
   </item>
-  <item name="acqua potabile (punto distribuzione)" icon="presets/toilet.png" type="node,closedway">
+  <item name="acqua potabile (punto distribuzione)" type="node,closedway">
     <link href="http://wiki.openstreetmap.org/wiki/Tag:waterway%3Dwater_point"/>
     <key key="amenity" value="water_point"/>
   </item>
-  <item name="acqua potabile (rubinetto)" icon="presets/toilet.png" type="node,closedway">
+  <item name="acqua potabile (rubinetto)" type="node,closedway">
     <link href="http://wiki.openstreetmap.org/wiki/Tag:waterway%3Dwater_point"/>
     <key key="amenity" value="drinking_water"/>
   </item>
-
   <item name="docce e lavandini pubblici" type="node,closedway">
     <link href="http://wiki.openstreetmap.org/wiki/Tag:waterway%3Dwater_point"/>
     <key key="amenity" value="water_point"/>
