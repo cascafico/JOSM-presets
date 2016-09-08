@@ -18,9 +18,9 @@
     <key key="damage:event" value="rieti_earthquake_2016"/>
     <key key="idp:camp_site" value="spontaneous_camp"/>
   </item>
-  <item name="brownfield (debris) 27 aug" icon="debris.png" type="closedway">
+    <item name="brownfield (debris) 27 aug" icon="debris.png" type="closedway">
     <link href="http://cascafico.altervista.org/osm/RietiEQ/EMSR177_legend.pdf"/>
-	<key key="brownfield:source_20160827" value="Copernicus"/>
+    <key key="brownfield:source_20160827" value="Copernicus"/>
     <key key="damage:event" value="rieti_earthquake_2016"/>
     <key key="landuse" value="brownfield"/>
   </item>
