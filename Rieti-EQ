@@ -57,11 +57,9 @@
     <key key="amenity" value="drinking_water"/>
   </item>
   <item name="docce e lavandini pubblici" type="node,closedway">
-    <link href="http://wiki.openstreetmap.org/wiki/Tag:waterway%3Dwater_point"/>
-    <key key="amenity" value="water_point"/>
+   <key key="amenity" value="washcenter"/>
   </item>
   <item name="cucina pubblica" type="node,closedway">
-    
     <key key="amenity" value="kitchen"/>
   </item>
 </group>
