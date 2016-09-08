@@ -53,7 +53,8 @@
     <key key="amenity" value="water_point"/>
   </item>
   <item name="acqua potabile (rubinetto)" icon="presets/drinking_water.png" type="node,closedway">
-    <link href="http://wiki.openstreetmap.org/wiki/Tag:waterway%3Dwater_point"/>
+    <link href="http://wiki.openstreetmap.org/wiki/Key:drinking_water"/>
+	<combo key="drinking_water" text="status" values="yes,no,conditional"/>
     <key key="amenity" value="drinking_water"/>
   </item>
   <item name="docce e lavandini pubblici" icon="shower.png" type="node,closedway">
