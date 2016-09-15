@@ -5,7 +5,7 @@ JOSM è un editor multipiattaforma per il database geografico di OpenstreetMap. 
 
 Questa repository contiene alcuni file di preimpostazioni per mappare le zone colpite dal terremoto di Rieti [1] e costruite sullo schema di etichettatura usato per mappare il terremto del Nepal, i campi IDP (Internal Displaced People) [2], nonchè in generale i campi per i rifugiati [3].
 
-Per utilizzarli, scaricare il contenuto in modalità archivio "zip" (oltre al xml conterrà anche le icone png) ed in menu JOSM "preimpostazioni" > "preferenze preimpostazioni".
+Per utilizzarli, scaricare il contenuto di questa cartella (xml e png) ed archiviatelo in uno zip; in menu JOSM "preimpostazioni" > "preferenze preimpostazioni" caricare lo zip e riavviate.
 
 Per facilitare una mappatura coordinata, usare il task manager apposito [4]
 
@@ -17,7 +17,7 @@ JOSM is a multi-platform editor for OpenstreetMap geodatabase. In addition to de
 
 In this repository you'll find some of them, suitable to map Rieti Earthquake area [1] and based on Nepal earthquake tagging framework which has been used to map IDP (Internal Displaced People) camps [2] and, as general rule, refugee camps [3].
 
-In order to use presets, download zip archive (xml preset file plus png icons) and JOSM menu "presets" > "preferences".
+In order to use presets, download and zip xml and png files; JOSM menu "presets" > "preferences", load zip file and restart
 
 Coordinated mapping can be accomplished through task manager [4]
 
